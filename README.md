@@ -1,3 +1,11 @@
+# Stretched
+
+Stretched is a set of python bindings for Stretch, based on the original Swift bindings.
+
+This repo remains as record for being the origional fork for the project. The actual implementation and more info is under the `python_bindings` branch.
+
+Initial bindings for MacOs can be installed for python versions 3.5, 3.6 and 3.7 with `pip install stretched`
+
 # Stretch
 [![CircleCI](https://circleci.com/gh/vislyhq/stretch.svg?style=svg)](https://circleci.com/gh/vislyhq/stretch)
 [![Cargo](https://img.shields.io/crates/v/stretch.svg)](https://crates.io/crates/stretch)
